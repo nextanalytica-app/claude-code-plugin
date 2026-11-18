@@ -1,0 +1,13 @@
+{
+  "name": "nextanalytica",
+  "description": "Plugins that let your agent set up nextanalytica web analytics.",
+  "owner": { "name": "nextanalytica" },
+  "plugins": [
+    {
+      "name": "nextanalytica",
+      "source": "./nextanalytica",
+      "author": { "name": "nextanalytica" },
+      "description": "Adds web analytics to the sites and apps your agent builds, over nextanalytica's MCP server."
+    }
+  ]
+}

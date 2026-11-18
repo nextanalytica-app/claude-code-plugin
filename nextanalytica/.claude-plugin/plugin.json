@@ -1,0 +1,6 @@
+{
+  "name": "nextanalytica",
+  "description": "Adds web analytics to the sites and apps your agent builds, over nextanalytica's MCP server.",
+  "version": "0.1.0",
+  "author": { "name": "nextanalytica" }
+}
